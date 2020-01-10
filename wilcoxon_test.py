@@ -51,5 +51,5 @@ op1 = np.multiply(sgn_list1,rank1)
 
 w1 = sum(op1)
 
-
+Print(f"Test Statistics for key_list and first non key list {w1}")
 
